@@ -46,7 +46,7 @@ button {
 }
 
 .card.selected {
-  transform: scale(1.7);
+  transform: scale(1.5);
   border: 1px solid #ffd09b;
   box-shadow: 0 9px 15px #1f1e1e;
   z-index: 10;
